@@ -1,0 +1,1 @@
+execute if score enpartida enpartida matches 1.. run function zgaemer:dethmatch

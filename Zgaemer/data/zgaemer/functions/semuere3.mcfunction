@@ -1,0 +1,1 @@
+execute as @a[scores={muerte=-2}] run playsound item.totem.use master @s ~ ~ ~ 1 1 1

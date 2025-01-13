@@ -1,0 +1,2 @@
+execute at @a[predicate=zgaemer:pequenio,limit=1] run attribute @s minecraft:generic.scale base set 0.3
+execute at @a[predicate=!zgaemer:pequenio,limit=1] run attribute @s minecraft:generic.scale base set 1
